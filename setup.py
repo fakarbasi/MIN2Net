@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="min2net",
-    version="1.0.0",
+    version="1.0.1",
     author="INTERFACES",
     author_email="IoBT.VISTEC@gmail.com",
     description="MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification",
